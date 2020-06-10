@@ -12,3 +12,7 @@ We will be analyzing the tweets on 16th April,2020 i.e a day after Phase-2 was d
 # Data Collection 
 For this project i have obtained the dataset from Kaggle :    
 https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april?select=2020-04-16+Coronavirus+Tweets.CSV.   
+
+
+## You can also find the project on Kaggle :
+https://www.kaggle.com/kartikmohan1999/covid19-sentiment-analysis
