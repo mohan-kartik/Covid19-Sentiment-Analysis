@@ -20,7 +20,13 @@ https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april?select=2020-
 * Distribution Plot
 * Bar Plot
 
+# Web App
+A simple web app is made using Streamlit for displaying the visualizations.    
+The code and dataset for the same is in the 'app.py' file and 'Tweeting.csv' respectively.
+
 ## TextBlob is used to predict the sentiment as Positive, Negative or Neutral.
+
+
 
 ### You can also find the notebook on Kaggle :
 https://www.kaggle.com/kartikmohan1999/covid19-sentiment-analysis
