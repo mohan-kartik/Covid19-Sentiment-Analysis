@@ -22,7 +22,13 @@ https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april?select=2020-
 
 # Web App
 A simple web app is made using Streamlit for displaying the visualizations.    
-The code and dataset for the same is in the 'app.py' file and 'Tweeting.csv' respectively.
+The code and dataset for the same is in the 'app.py' file and 'tweeting.csv' respectively.
+
+The webapp is deployed on heroku platform : https://covid19-sentiment-analysis.herokuapp.com/        
+The following files are required for deployment :
+* Procfile
+* requirements.txt 
+* setup.sh
 
 ![alt text](https://github.com/kartikmohan123/Covid19-Sentiment-Analysis/blob/master/webapp-1.JPG)
 
