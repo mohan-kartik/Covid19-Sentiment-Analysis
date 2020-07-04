@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+wordcloud
+collections
